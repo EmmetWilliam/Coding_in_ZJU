@@ -188,4 +188,4 @@ class PushUtilContext:
 
 
 # 如果要使用pusher, 则自定义
-p = PushUtilContext()
+p = PushUtilContext(2)
